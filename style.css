@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+button{
+    margin:2px;
+}
+.mainContainer{
+    width : 800px;
+    height: 800px;
+    display: grid;
+    margin: 2px auto;
+    border: 2px solid black;
+}
