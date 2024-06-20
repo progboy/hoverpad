@@ -5,8 +5,8 @@ button{
     margin:2px;
 }
 .mainContainer{
-    width : 800px;
-    height: 800px;
+    width : 640px;
+    height: 640px;
     display: grid;
     margin: 2px auto;
     border: 2px solid black;

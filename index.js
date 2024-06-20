@@ -7,8 +7,8 @@ function getRandomNumber(){
 function makeDivCell(rowsize,i,j){
     let elem = document.createElement("div");
     elem.style.backgroundColor = "white";
-    elem.style.width = 800/rowsize + "px";
-    elem.style.height = 800/rowsize + "px";
+    elem.style.width = 640/rowsize + "px";
+    elem.style.height = 640/rowsize + "px";
     elem.style.gridColumnStart = j+1;
     elem.style.gridColumnEnd = j+2;
     elem.style.gridRowStart = i+1;
